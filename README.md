@@ -1,13 +1,13 @@
 
 <h1 align="center">Namaste, I'm Summit Shrestha</h1>
 <h3 align="center">A computer enthusiast who treats his laptop as his best-friend.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/g2dh.gif">
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=shrestha8summmit&label=Profile%20views&color=0e75b6&style=flat" alt="shrestha8summmit" /> </p>
 
 <p align="center"> 
-  <a href="https://twitter.com/shrestha8summit" target="blank"><img src="https://img.shields.io/twitter/follow/shrestha8summit?logo=twitter&style=for-the-badge" alt="shrestha8summit" /></a>
+  <img align="center" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width="400" alt="Coding GIF2">
 </p>
+
+
 
 ### 📖 About Me
 
@@ -49,3 +49,7 @@
   <a href="https://linkedin.com/in/summit8shrestha"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:shrestha8summit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=shrestha8summmit&label=Profile%20views&color=0e75b6&style=flat" alt="shrestha8summmit" />
+</p
