@@ -35,8 +35,9 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrestha8summmit&show_icons=true&theme=radical" alt="shrestha8summmit" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrestha8summit&show_icons=true&theme=radical" alt="shrestha8summit" />
 </p>
+
 
 ### 🤝 Connect with Me
 
