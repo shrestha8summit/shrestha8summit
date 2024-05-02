@@ -31,17 +31,17 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p align="center">
-<h3 align="center"> 📊 GitHub Stats</h3>
+<p align="left">
+<h3 align="left"> 📊 GitHub Stats</h3>
 </p>
 
-<p align="center">
-  <h3 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrestha8summit&show_icons=true&theme=radical" alt="shrestha8summit" />
-  </h3>
-</p>
 
-<p align="center">
+<img   width=" 47%" height="15%" align="left" src="https://github-readme-stats.vercel.app/api?username=shrestha8summit&show_icons=true&theme=radical" alt="shrestha8summit" />  
+ <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha8summit&layout=compact" alt="Language used" />
+
+
+
+<p align="center"><br>
 <h3 align="center">🤝 Connect with Me</h3>
 </p>
 <p align="center">
@@ -50,6 +50,4 @@
   <a href="mailto:shrestha8summit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=shrestha8summmit&label=Profile%20views&color=0e75b6&style=flat" alt="shrestha8summmit" />
-</p
+
