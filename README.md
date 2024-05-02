@@ -34,10 +34,8 @@
 <br>
 <p align="left">
 <h3 align="center"> 📊 GitHub Stats</h3>
-<br>
-<img   width=" 47%" height="15%" align="left" src="https://github-readme-stats.vercel.app/api?username=shrestha8summit&show_icons=true&theme=radical" alt="shrestha8summit" />  
- <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha8summit&layout=compact" alt="Language used" />
-
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=shrestha8summit&show_icons=true&theme=radical" alt="shrestha8summit" />  
+<img width="50.5%" height="200"src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrestha8summit&layout=compact" alt="Language used" />
 </p>
 
 <!--
