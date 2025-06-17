@@ -44,9 +44,9 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=shrestha8summit&color=green)
-  https://komarev.com/ghpvc/?username=shrestha8summit
+  <img src="https://komarev.com/ghpvc/?username=shrestha8summit&color=green" alt="Profile views"/>
 </p>
+
 <!--
 <p align="center"><br>
 <h3 align="center">🤝 Connect with Me</h3>
