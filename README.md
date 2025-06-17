@@ -42,6 +42,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shrestha8summit&theme=modern-lilac2&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=444" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=shrestha8summit&color=green)
+  https://komarev.com/ghpvc/?username=shrestha8summit
+</p>
 <!--
 <p align="center"><br>
 <h3 align="center">🤝 Connect with Me</h3>
