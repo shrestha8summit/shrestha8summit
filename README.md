@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shrestha8summit&theme=modern-lilac2&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=444" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shrestha8summit&theme=modern-lilac2&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=444](https://github-readme-streak-stats.herokuapp.com/?user=shrestha8summit&theme=modern-lilac2&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=444" alt="GitHub Streak" />
 </p>
 
 <p align="center">
